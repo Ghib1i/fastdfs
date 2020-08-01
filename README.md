@@ -1,5 +1,8 @@
 Copyright (C) 2008 Happy Fish / YuQing
 
+this is for test lcj
+
+
 FastDFS may be copied only under the terms of the GNU General
 Public License V3, which may be found in the FastDFS source kit.
 Please visit the FastDFS Home Page for more detail.
